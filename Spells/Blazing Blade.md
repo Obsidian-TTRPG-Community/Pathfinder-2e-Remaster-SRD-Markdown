@@ -1,6 +1,6 @@
 ---
 title: "Blazing Blade"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blazing Blade"
 foundryId: Item.LCRkImiE3zIFguNy
 tags:

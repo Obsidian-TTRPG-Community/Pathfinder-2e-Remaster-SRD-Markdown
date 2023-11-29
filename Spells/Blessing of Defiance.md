@@ -1,6 +1,6 @@
 ---
 title: "Blessing of Defiance"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blessing of Defiance"
 foundryId: Item.ZylXEkXVOSSG2UtY
 tags:

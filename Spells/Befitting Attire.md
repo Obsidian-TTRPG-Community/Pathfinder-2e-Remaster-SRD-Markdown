@@ -1,6 +1,6 @@
 ---
 title: "Befitting Attire"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Befitting Attire"
 foundryId: Item.OjCR3wucEddBDbTB
 tags:

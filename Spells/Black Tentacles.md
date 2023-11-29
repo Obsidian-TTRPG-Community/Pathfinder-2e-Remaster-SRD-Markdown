@@ -1,6 +1,6 @@
 ---
 title: "Black Tentacles"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Black Tentacles"
 foundryId: Item.dY1cusO2uOa3LW25
 tags:

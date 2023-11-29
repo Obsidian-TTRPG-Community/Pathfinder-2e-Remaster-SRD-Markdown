@@ -1,6 +1,6 @@
 ---
 title: "Bestial Curse"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bestial Curse"
 foundryId: Item.szF0TBGB1o22hhpa
 tags:

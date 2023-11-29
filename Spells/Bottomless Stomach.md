@@ -1,6 +1,6 @@
 ---
 title: "Bottomless Stomach"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bottomless Stomach"
 foundryId: Item.QPNqjhDTFoXbuCoM
 tags:

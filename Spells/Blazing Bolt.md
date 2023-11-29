@@ -1,6 +1,6 @@
 ---
 title: Blazing Bolt
-icon: ":luggage:"
+icon: "spell"
 aliases:
   - Blazing Bolt
   - Scorching Ray

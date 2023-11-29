@@ -1,6 +1,6 @@
 ---
 title: "Banishment"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Banishment"
 foundryId: Item.1BnkDhR7l8QZP03j
 tags:

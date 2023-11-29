@@ -1,6 +1,6 @@
 ---
 title: "Bracing Tendrils"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bracing Tendrils"
 foundryId: Item.Owg29MANOlTgrlv9
 tags:

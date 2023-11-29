@@ -1,6 +1,6 @@
 ---
 title: "Bind Undead"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bind Undead"
 foundryId: Item.5kScdvEdSCXf44Lg
 tags:

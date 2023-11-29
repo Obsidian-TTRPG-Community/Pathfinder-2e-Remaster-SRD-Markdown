@@ -1,6 +1,6 @@
 ---
 title: "Bloodspray Curse"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bloodspray Curse"
 foundryId: Item.L8qt784nZoAitFTr
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Bit of Luck"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bit of Luck"
 foundryId: Item.bordGkKDvTBuvRlc
 tags:

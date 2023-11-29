@@ -1,6 +1,6 @@
 ---
 title: "Blight"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blight"
 foundryId: Item.fw8Hh9RMnoA93pxl
 tags:

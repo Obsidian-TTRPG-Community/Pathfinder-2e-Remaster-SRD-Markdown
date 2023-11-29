@@ -1,6 +1,6 @@
 ---
 title: "Blast of the Bellows"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blast of the Bellows"
 foundryId: Item.nXNH7rslApb9xKQx
 tags:

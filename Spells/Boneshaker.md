@@ -1,6 +1,6 @@
 ---
 title: "Boneshaker"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Boneshaker"
 foundryId: Item.YVQJ7ZNNR91dNgYO
 tags:

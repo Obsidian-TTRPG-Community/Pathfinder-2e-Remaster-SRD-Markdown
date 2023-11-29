@@ -1,6 +1,6 @@
 ---
 title: "Bilocation"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bilocation"
 foundryId: Item.zsqdaR5yzcg1OShj
 tags:

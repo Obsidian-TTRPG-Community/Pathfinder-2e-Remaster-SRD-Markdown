@@ -1,6 +1,6 @@
 ---
 title: "Buzzing Bites"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Buzzing Bites"
 foundryId: Item.sZTHGOanUnuXARrn
 tags:

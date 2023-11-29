@@ -1,6 +1,6 @@
 ---
 title: "Boil Blood"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Boil Blood"
 foundryId: Item.Lj90k0TOtxQgYWdx
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Blur"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blur"
 foundryId: Item.hDr1bYDvTQPElTFr
 tags:

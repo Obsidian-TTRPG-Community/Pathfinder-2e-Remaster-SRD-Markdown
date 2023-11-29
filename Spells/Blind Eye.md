@@ -1,6 +1,6 @@
 ---
 title: "Blind Eye"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blind Eye"
 foundryId: Item.kh2al1kk6fqNOnBz
 tags:

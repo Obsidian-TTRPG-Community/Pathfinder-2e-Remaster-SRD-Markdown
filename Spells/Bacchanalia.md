@@ -1,6 +1,6 @@
 ---
 title: "Bacchanalia"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bacchanalia"
 foundryId: Item.EK1Q8bva9L90YUcP
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Blessed Boundary"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blessed Boundary"
 foundryId: Item.o2JEBPQNMuNf4f76
 tags:

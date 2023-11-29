@@ -1,6 +1,6 @@
 ---
 title: "Binding Muzzle"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Binding Muzzle"
 foundryId: Item.39nnOTGLUaJmeiwe
 tags:

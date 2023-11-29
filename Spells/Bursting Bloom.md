@@ -1,6 +1,6 @@
 ---
 title: "Bursting Bloom"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bursting Bloom"
 foundryId: Item.rCwASqQsodb541bD
 tags:

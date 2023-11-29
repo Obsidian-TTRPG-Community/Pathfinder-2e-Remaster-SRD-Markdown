@@ -1,6 +1,6 @@
 ---
 title: "Bathe in Blood"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bathe in Blood"
 foundryId: Item.uVLqJrRo07Tfu0xz
 tags:

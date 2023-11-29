@@ -1,6 +1,6 @@
 ---
 title: Breathe Fire
-icon: ":luggage:"
+icon: "spell"
 aliases:
   - Breathe Fire
   - Burning Hands

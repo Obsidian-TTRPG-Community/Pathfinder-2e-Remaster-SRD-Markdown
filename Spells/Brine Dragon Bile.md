@@ -1,6 +1,6 @@
 ---
 title: "Brine Dragon Bile"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Brine Dragon Bile"
 foundryId: Item.xfjMaIUdBNn8VyNn
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Burning Blossoms"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Burning Blossoms"
 foundryId: Item.g8zuDhCTubS9DEfb
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Blister"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blister"
 foundryId: Item.ss3NKdBctwmbkQW3
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Blood Ward"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blood Ward"
 foundryId: Item.IHtffb4E2QQXWlLX
 tags:

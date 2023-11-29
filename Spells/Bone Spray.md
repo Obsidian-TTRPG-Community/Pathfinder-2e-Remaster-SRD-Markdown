@@ -1,6 +1,6 @@
 ---
 title: "Bone Spray"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bone Spray"
 foundryId: Item.M5ApR8dsn5widL4u
 tags:

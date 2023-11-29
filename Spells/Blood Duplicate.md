@@ -1,6 +1,6 @@
 ---
 title: "Blood Duplicate"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blood Duplicate"
 foundryId: Item.RPjKiIPb8RG4Z47g
 tags:

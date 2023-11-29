@@ -1,6 +1,6 @@
 ---
 title: "Beastmaster Trance"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Beastmaster Trance"
 foundryId: Item.pE07hyXt92qQT6Wo
 tags:

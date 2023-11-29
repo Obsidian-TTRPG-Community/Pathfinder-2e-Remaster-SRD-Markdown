@@ -1,6 +1,6 @@
 ---
 title: "Blade Barrier"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blade Barrier"
 foundryId: Item.SasctGny6pziU4Kl
 tags:

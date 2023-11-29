@@ -1,6 +1,6 @@
 ---
 title: "Burrow Ward"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Burrow Ward"
 foundryId: Item.qgQuLVxuX8422D3Y
 tags:

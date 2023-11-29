@@ -1,6 +1,6 @@
 ---
 title: "Blood Vendetta"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blood Vendetta"
 foundryId: Item.gIj0MU6bFbVx5yrs
 tags:

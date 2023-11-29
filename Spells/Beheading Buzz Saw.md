@@ -1,6 +1,6 @@
 ---
 title: "Beheading Buzz Saw"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Beheading Buzz Saw"
 foundryId: Item.othWGPCOadZhtgT8
 tags:

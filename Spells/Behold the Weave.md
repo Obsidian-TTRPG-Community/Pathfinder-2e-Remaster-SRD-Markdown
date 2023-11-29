@@ -1,6 +1,6 @@
 ---
 title: "Behold the Weave"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Behold the Weave"
 foundryId: Item.CVAuTnqj2E8FqBbv
 tags:

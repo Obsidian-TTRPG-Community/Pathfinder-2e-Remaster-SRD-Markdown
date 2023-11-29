@@ -1,6 +1,6 @@
 ---
 title: "Blackfinger's Blades"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blackfinger's Blades"
 foundryId: Item.bVSKhcy65qwmPTv4
 tags:

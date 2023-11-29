@@ -1,6 +1,6 @@
 ---
 title: "Blood Feast"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blood Feast"
 foundryId: Item.StRokPtMZoORK7Ba
 tags:

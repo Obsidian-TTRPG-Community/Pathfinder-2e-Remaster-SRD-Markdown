@@ -1,6 +1,6 @@
 ---
 title: "Biting Words"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Biting Words"
 foundryId: Item.IKF2L3o6MPJLbdJx
 tags:

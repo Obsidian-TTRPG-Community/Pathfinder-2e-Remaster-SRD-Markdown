@@ -1,6 +1,6 @@
 ---
 title: "Boost Eidolon"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Boost Eidolon"
 foundryId: Item.RerbXRGOgXO5QYyI
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Buffeting Winds"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Buffeting Winds"
 foundryId: Item.n5kFMrGHEqR3fuWc
 tags:

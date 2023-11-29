@@ -1,6 +1,6 @@
 ---
 title: "Blastback"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blastback"
 foundryId: Item.TgwhpzmXi4gwDgbN
 tags:

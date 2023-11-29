@@ -1,6 +1,6 @@
 ---
 title: "Blinding Fury"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blinding Fury"
 foundryId: Item.u6Nd6xOo4rRtAjvW
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Briny Bolt"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Briny Bolt"
 foundryId: Item.z7tqGNEWy2CrzDqw
 tags:

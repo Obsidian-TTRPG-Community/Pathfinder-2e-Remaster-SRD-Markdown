@@ -1,6 +1,6 @@
 ---
 title: "Binding Circle"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Binding Circle"
 foundryId: Item.zgnlHsR6uWIAIjjR
 tags:

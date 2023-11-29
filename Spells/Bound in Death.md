@@ -1,6 +1,6 @@
 ---
 title: "Bound in Death"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bound in Death"
 foundryId: Item.iRO7j8Mtbed6vW3y
 tags:

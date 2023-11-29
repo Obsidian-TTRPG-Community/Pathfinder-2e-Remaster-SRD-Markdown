@@ -1,6 +1,6 @@
 ---
 title: "Battlefield Persistence"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Battlefield Persistence"
 foundryId: Item.SWVJxLGlqukbUoGD
 tags:

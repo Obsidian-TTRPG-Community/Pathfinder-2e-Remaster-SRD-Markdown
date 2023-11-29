@@ -1,6 +1,6 @@
 ---
 title: "Breath of Life"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Breath of Life"
 foundryId: Item.le05oRpO21ioQUZT
 tags:

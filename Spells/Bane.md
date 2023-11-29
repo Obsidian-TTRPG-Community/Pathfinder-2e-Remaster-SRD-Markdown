@@ -1,6 +1,6 @@
 ---
 title: "Bane"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bane"
 foundryId: Item.eOP3QLHFkKXuWVXU
 tags:

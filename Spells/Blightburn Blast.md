@@ -1,6 +1,6 @@
 ---
 title: "Blightburn Blast"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blightburn Blast"
 foundryId: Item.MoJavcPXXdCMxDkN
 tags:

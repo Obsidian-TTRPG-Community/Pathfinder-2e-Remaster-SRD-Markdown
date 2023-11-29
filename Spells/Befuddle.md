@@ -1,6 +1,6 @@
 ---
 title: "Befuddle"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Befuddle"
 foundryId: Item.LyDLy76tdddeNHgQ
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Breadcrumbs"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Breadcrumbs"
 foundryId: Item.I8QCtK8ylbrKOAZq
 tags:

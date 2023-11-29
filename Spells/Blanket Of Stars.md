@@ -1,6 +1,6 @@
 ---
 title: "Blanket Of Stars"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blanket Of Stars"
 foundryId: Item.vu0dILuF6L1TctdR
 tags:

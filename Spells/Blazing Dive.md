@@ -1,6 +1,6 @@
 ---
 title: "Blazing Dive"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blazing Dive"
 foundryId: Item.MQcbrihhDzXjmvXb
 tags:

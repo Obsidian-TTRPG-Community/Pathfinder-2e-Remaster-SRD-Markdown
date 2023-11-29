@@ -1,6 +1,6 @@
 ---
 title: "Bottle the Storm"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bottle the Storm"
 foundryId: Item.DCMKQpXOPqLyy4rL
 tags:

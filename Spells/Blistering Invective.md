@@ -1,6 +1,6 @@
 ---
 title: "Blistering Invective"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blistering Invective"
 foundryId: Item.ORqvXTymKiNEsR7w
 tags:

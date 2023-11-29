@@ -1,6 +1,6 @@
 ---
 title: "Blunt the Final Blade"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blunt the Final Blade"
 foundryId: Item.dpngBnnTlLIeLRjf
 tags:

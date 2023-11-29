@@ -1,6 +1,6 @@
 ---
 title: "Blinding Beauty"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blinding Beauty"
 foundryId: Item.krr8d1viVTiPZNFi
 tags:

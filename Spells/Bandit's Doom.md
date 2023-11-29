@@ -1,6 +1,6 @@
 ---
 title: "Bandit's Doom"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bandit's Doom"
 foundryId: Item.64lGrtMZvPeubLOc
 tags:

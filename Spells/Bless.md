@@ -1,6 +1,6 @@
 ---
 title: "Bless"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bless"
 foundryId: Item.L5HddoQH7LEt4bp1
 tags:

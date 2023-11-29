@@ -1,6 +1,6 @@
 ---
 title: "Blazing Armory"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blazing Armory"
 foundryId: Item.LqwMTpkA4wOc9Wp3
 tags:

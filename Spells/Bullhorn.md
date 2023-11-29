@@ -1,6 +1,6 @@
 ---
 title: "Bullhorn"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bullhorn"
 foundryId: Item.fT88MHIaKxkGk2Yz
 tags:

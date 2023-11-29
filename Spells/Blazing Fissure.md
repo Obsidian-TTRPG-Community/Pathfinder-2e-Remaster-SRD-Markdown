@@ -1,6 +1,6 @@
 ---
 title: "Blazing Fissure"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blazing Fissure"
 foundryId: Item.eExgaFblfX6SmPQ8
 tags:

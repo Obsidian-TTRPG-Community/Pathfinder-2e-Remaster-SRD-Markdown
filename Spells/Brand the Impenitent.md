@@ -1,6 +1,6 @@
 ---
 title: "Brand the Impenitent"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Brand the Impenitent"
 foundryId: Item.szdTKob88W22uAxo
 tags:

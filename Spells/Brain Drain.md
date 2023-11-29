@@ -1,6 +1,6 @@
 ---
 title: "Brain Drain"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Brain Drain"
 foundryId: Item.XkFnwtRFiJfYnxgO
 tags:

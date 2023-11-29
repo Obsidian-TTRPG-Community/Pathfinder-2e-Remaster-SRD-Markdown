@@ -1,6 +1,6 @@
 ---
 title: "Bralani Referendum"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bralani Referendum"
 foundryId: Item.zTQx3cb2gN36iyXh
 tags:

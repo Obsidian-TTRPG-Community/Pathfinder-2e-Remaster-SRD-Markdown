@@ -1,6 +1,6 @@
 ---
 title: "Buoyant Bubbles"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Buoyant Bubbles"
 foundryId: Item.RvPICxIkvAZ3D8qn
 tags:

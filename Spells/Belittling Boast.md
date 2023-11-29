@@ -1,6 +1,6 @@
 ---
 title: "Belittling Boast"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Belittling Boast"
 foundryId: Item.oeFSvheqaYDr6weF
 tags:

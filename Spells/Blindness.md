@@ -1,6 +1,6 @@
 ---
 title: "Blindness"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blindness"
 foundryId: Item.ANlW06XCJo3hZNQj
 tags:

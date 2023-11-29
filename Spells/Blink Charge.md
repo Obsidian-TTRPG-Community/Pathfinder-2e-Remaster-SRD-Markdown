@@ -1,6 +1,6 @@
 ---
 title: "Blink Charge"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blink Charge"
 foundryId: Item.d8NH04A082VD6pEh
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Bountiful Oasis"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Bountiful Oasis"
 foundryId: Item.Ln1dWNqHMuJ7IOJN
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Blinding Foam"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Blinding Foam"
 foundryId: Item.5IZJKEdCgL8Kh42v
 tags:

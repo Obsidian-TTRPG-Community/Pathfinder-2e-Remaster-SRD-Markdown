@@ -1,6 +1,6 @@
 ---
 title: "Breath of Drought"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Breath of Drought"
 foundryId: Item.2mQjSQsQGsHPEYnO
 tags:
