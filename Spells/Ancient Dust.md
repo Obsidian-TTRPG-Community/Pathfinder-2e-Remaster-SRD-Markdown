@@ -1,6 +1,6 @@
 ---
 title: "Ancient Dust"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ancient Dust"
 foundryId: Item.ZHab1r4alGUwnAb2
 tags:

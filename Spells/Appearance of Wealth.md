@@ -1,6 +1,6 @@
 ---
 title: "Appearance of Wealth"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Appearance of Wealth"
 foundryId: Item.n5jaOgzJxKo9Dqw9
 tags:

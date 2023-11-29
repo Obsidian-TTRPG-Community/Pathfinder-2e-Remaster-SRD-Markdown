@@ -1,6 +1,6 @@
 ---
 title: "Allegro"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Allegro"
 foundryId: Item.GSWHShcbyKocBXzy
 tags:

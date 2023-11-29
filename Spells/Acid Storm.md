@@ -1,6 +1,6 @@
 ---
 title: "Acid Storm"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Acid Storm"
 foundryId: Item.yawoYaQy5YWOC1zJ
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Astral Projection"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Astral Projection"
 foundryId: Item.xv31SsMeTKvsePBl
 tags:

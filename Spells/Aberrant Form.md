@@ -1,6 +1,6 @@
 ---
 title: "Aberrant Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aberrant Form"
 foundryId: Item.BPNPACdCCSegwC0G
 tags:

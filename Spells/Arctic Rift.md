@@ -1,6 +1,6 @@
 ---
 title: "Arctic Rift"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Arctic Rift"
 foundryId: Item.VfTRN02IK3AgmvKB
 tags:

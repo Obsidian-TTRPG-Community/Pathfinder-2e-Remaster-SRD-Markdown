@@ -1,6 +1,6 @@
 ---
 title: "All is One, One is All"
-icon: ":luggage:"
+icon: "spell"
 aliases: "All is One, One is All"
 foundryId: Item.BMtPRtecYD2osxlt
 tags:

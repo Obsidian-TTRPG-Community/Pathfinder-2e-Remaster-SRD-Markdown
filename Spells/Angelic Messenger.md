@@ -1,6 +1,6 @@
 ---
 title: "Angelic Messenger"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Angelic Messenger"
 foundryId: Item.VPCkPfjlMZFTHliC
 tags:

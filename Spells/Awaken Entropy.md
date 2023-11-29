@@ -1,6 +1,6 @@
 ---
 title: "Awaken Entropy"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Awaken Entropy"
 foundryId: Item.FrI8eqjTNuVEjl6G
 tags:

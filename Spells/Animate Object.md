@@ -1,6 +1,6 @@
 ---
 title: "Animate Object"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animate Object"
 foundryId: Item.J7j0y6bTDZtGoQ7N
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Athletic Rush"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Athletic Rush"
 foundryId: Item.2gSYBnOsn5DQf0Ra
 tags:

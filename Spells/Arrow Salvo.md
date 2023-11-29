@@ -1,6 +1,6 @@
 ---
 title: "Arrow Salvo"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Arrow Salvo"
 foundryId: Item.5bEeB3gXlIUovhPv
 tags:

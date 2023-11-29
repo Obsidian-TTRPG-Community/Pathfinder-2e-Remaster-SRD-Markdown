@@ -1,6 +1,6 @@
 ---
 title: "Achaekek's Clutch"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Achaekek's Clutch"
 foundryId: Item.PqXPBl0NLPnQkXn3
 tags:

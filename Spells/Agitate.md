@@ -1,6 +1,6 @@
 ---
 title: "Agitate"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Agitate"
 foundryId: Item.cAnEB9b9UhRptoJD
 tags:

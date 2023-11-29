@@ -1,6 +1,6 @@
 ---
 title: "Ancestral Touch"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ancestral Touch"
 foundryId: Item.Z5UhiiFq541yCBAX
 tags:

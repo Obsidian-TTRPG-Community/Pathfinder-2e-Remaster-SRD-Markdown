@@ -1,6 +1,6 @@
 ---
 title: "Anathematic Reprisal"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Anathematic Reprisal"
 foundryId: Item.nYKbcGkdPmiPv9YH
 tags:

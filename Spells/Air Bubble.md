@@ -1,6 +1,6 @@
 ---
 title: "Air Bubble"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Air Bubble"
 foundryId: Item.dSIv5sMidNzymFHD
 tags:

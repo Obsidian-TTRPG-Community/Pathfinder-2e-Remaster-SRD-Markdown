@@ -1,6 +1,6 @@
 ---
 title: "Amity Cycle"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Amity Cycle"
 foundryId: Item.qBAErxtmwERFJcIa
 tags:

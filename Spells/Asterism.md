@@ -1,6 +1,6 @@
 ---
 title: "Asterism"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Asterism"
 foundryId: Item.kvpr8qcMYcjNbNnB
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Asmodean Wager"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Asmodean Wager"
 foundryId: Item.MvGIQV8fSCzRFTbO
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Airlift"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Airlift"
 foundryId: Item.x8WZZXcujLD1ilpW
 tags:

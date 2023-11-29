@@ -1,6 +1,6 @@
 ---
 title: "Ash Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ash Form"
 foundryId: Item.UHqgPXeCeg6aYLq7
 tags:

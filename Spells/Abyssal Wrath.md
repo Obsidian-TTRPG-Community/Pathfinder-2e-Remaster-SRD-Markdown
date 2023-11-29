@@ -1,6 +1,6 @@
 ---
 title: "Abyssal Wrath"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Abyssal Wrath"
 foundryId: Item.D7EbAASNodQN861l
 tags:

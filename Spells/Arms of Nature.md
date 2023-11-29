@@ -1,6 +1,6 @@
 ---
 title: "Arms of Nature"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Arms of Nature"
 foundryId: Item.fkgGqZnpPkqkz5cv
 tags:

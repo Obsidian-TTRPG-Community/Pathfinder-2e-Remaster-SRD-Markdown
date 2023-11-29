@@ -1,6 +1,6 @@
 ---
 title: "Air Walk"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Air Walk"
 foundryId: Item.SaAQb1NUDIa97zqq
 tags:

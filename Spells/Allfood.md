@@ -1,6 +1,6 @@
 ---
 title: "Allfood"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Allfood"
 foundryId: Item.vzIzjuBSNdfY3Gyf
 tags:

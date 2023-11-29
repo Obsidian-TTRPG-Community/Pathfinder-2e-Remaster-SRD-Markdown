@@ -1,6 +1,6 @@
 ---
 title: "Ancestral Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ancestral Form"
 foundryId: Item.BGyuHZzDCeFfH4yX
 tags:

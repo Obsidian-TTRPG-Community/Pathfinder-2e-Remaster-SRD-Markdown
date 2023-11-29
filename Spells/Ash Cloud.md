@@ -1,6 +1,6 @@
 ---
 title: "Ash Cloud"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ash Cloud"
 foundryId: Item.LNn68nHv7VO7lDar
 tags:

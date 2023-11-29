@@ -1,6 +1,6 @@
 ---
 title: "Arcane Countermeasure"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Arcane Countermeasure"
 foundryId: Item.26c8k4m3lcThNakm
 tags:

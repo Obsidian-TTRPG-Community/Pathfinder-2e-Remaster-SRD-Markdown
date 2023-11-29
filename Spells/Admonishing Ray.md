@@ -1,6 +1,6 @@
 ---
 title: "Admonishing Ray"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Admonishing Ray"
 foundryId: Item.CrMt8Z3gJ8Ekc9Zv
 tags:

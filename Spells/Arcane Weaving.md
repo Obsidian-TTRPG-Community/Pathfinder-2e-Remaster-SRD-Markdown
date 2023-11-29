@@ -1,6 +1,6 @@
 ---
 title: "Arcane Weaving"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Arcane Weaving"
 foundryId: Item.tGA1W92A4cRYUZFi
 tags:

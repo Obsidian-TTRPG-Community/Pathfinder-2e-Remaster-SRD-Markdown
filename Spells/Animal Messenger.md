@@ -1,6 +1,6 @@
 ---
 title: "Animal Messenger"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animal Messenger"
 foundryId: Item.gkWctML7VWVcTFhC
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Alter Reality"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Alter Reality"
 foundryId: Item.YdIKaRnRaoVBxvUE
 tags:

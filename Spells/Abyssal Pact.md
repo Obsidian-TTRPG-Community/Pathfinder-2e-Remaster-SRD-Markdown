@@ -1,6 +1,6 @@
 ---
 title: "Abyssal Pact"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Abyssal Pact"
 foundryId: Item.bPK7whUjlbLKkgl0
 tags:

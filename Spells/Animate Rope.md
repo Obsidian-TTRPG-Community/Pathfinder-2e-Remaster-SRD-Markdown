@@ -1,6 +1,6 @@
 ---
 title: "Animate Rope"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animate Rope"
 foundryId: Item.US1YI6unfLQC60ZI
 tags:

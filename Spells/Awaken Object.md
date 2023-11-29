@@ -1,6 +1,6 @@
 ---
 title: "Awaken Object"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Awaken Object"
 foundryId: Item.AfRCpBlmnLmlaR0K
 tags:

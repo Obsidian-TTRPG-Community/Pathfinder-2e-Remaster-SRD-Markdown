@@ -1,6 +1,6 @@
 ---
 title: "Aberrant Whispers"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aberrant Whispers"
 foundryId: Item.v20ipMVpUmkQZgT8
 tags:

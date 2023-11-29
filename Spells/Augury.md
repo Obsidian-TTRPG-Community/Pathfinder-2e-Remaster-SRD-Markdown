@@ -1,6 +1,6 @@
 ---
 title: "Augury"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Augury"
 foundryId: Item.vFw2igVH5L11vqxa
 tags:

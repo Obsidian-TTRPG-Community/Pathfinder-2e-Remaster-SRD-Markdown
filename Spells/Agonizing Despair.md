@@ -1,6 +1,6 @@
 ---
 title: "Agonizing Despair"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Agonizing Despair"
 foundryId: Item.3iKibMhKMD9yBaZQ
 tags:

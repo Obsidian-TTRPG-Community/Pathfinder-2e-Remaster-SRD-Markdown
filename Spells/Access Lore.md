@@ -1,6 +1,6 @@
 ---
 title: "Access Lore"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Access Lore"
 foundryId: Item.Bpq30uZG1xxwedEs
 tags:

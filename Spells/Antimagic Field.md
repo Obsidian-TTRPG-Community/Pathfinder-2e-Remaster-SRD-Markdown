@@ -1,6 +1,6 @@
 ---
 title: "Antimagic Field"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Antimagic Field"
 foundryId: Item.XOJd2rPoqDytCALi
 tags:

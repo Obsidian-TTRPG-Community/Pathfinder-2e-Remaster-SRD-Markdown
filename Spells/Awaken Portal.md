@@ -1,6 +1,6 @@
 ---
 title: "Awaken Portal"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Awaken Portal"
 foundryId: Item.Ju9GmZy80nQLLsje
 tags:

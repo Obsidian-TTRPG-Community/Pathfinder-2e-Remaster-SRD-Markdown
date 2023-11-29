@@ -1,6 +1,6 @@
 ---
 title: "Anima Invocation (Modified)"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Anima Invocation (Modified)"
 foundryId: Item.0g6ASv9RMSw9rqJA
 tags:

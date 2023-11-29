@@ -1,6 +1,6 @@
 ---
 title: "Angelic Halo"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Angelic Halo"
 foundryId: Item.7JBWu6pCK9ZNOnSh
 tags:

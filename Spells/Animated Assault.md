@@ -1,6 +1,6 @@
 ---
 title: "Animated Assault"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animated Assault"
 foundryId: Item.hYXbdkFc6IV4J5Hc
 tags:

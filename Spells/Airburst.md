@@ -1,6 +1,6 @@
 ---
 title: "Airburst"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Airburst"
 foundryId: Item.oqfy5jJ2tPnH0yI8
 tags:

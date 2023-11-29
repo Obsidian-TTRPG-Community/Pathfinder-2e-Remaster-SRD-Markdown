@@ -1,6 +1,6 @@
 ---
 title: "Adapt Self"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Adapt Self"
 foundryId: Item.PJPe5sQE8BCchinR
 tags:

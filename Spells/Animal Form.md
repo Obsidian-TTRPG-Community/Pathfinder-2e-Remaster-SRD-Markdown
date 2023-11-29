@@ -1,6 +1,6 @@
 ---
 title: "Animal Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animal Form"
 foundryId: Item.VoyMMZKEofvixxu5
 tags:

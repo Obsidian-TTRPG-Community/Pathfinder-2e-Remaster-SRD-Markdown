@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Ablation"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Adaptive Ablation"
 foundryId: Item.UsYSrBoaOgUIUwHG
 tags:

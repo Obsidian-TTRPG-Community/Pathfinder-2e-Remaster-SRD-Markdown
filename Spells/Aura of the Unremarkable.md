@@ -1,6 +1,6 @@
 ---
 title: "Aura of the Unremarkable"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aura of the Unremarkable"
 foundryId: Item.brghXn89zwdX1pdC
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Awaken Animal"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Awaken Animal"
 foundryId: Item.WnVhszdMw7FK8VZO
 tags:

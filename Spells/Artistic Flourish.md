@@ -1,6 +1,6 @@
 ---
 title: "Artistic Flourish"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Artistic Flourish"
 foundryId: Item.UNPGICZBqAvOEE8t
 tags:

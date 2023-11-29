@@ -1,6 +1,6 @@
 ---
 title: "Abundant Step"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Abundant Step"
 foundryId: Item.VXWIcAVkdo3eu31F
 tags:

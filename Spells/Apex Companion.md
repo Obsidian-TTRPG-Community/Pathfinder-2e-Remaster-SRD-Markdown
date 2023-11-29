@@ -1,6 +1,6 @@
 ---
 title: "Apex Companion"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Apex Companion"
 foundryId: Item.FtFQsUNpEOAsubUu
 tags:

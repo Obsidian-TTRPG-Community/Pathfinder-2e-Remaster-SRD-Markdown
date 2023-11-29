@@ -1,6 +1,6 @@
 ---
 title: "Aqueous Blast"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aqueous Blast"
 foundryId: Item.det6X4mEBIGxKCVx
 tags:

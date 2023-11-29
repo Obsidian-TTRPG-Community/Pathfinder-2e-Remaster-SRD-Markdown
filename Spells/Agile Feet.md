@@ -1,6 +1,6 @@
 ---
 title: "Agile Feet"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Agile Feet"
 foundryId: Item.pHNAGxzzZXrV3KdF
 tags:

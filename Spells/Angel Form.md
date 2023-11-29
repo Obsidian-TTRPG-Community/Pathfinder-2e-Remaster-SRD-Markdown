@@ -1,6 +1,6 @@
 ---
 title: "Angel Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Angel Form"
 foundryId: Item.bfnzyGo226lwQPuD
 tags:

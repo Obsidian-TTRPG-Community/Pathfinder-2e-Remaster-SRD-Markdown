@@ -1,6 +1,6 @@
 ---
 title: "Ancestral Defense"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ancestral Defense"
 foundryId: Item.WN7wZTWuUckNVnHI
 tags:

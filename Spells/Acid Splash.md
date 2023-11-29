@@ -1,6 +1,6 @@
 ---
 title: "Acid Splash"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Acid Splash"
 foundryId: Item.ohdyFs9y5QWFZkx6
 tags:

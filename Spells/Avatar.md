@@ -1,6 +1,6 @@
 ---
 title: "Avatar"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Avatar"
 foundryId: Item.UAdQbc594HPmY8Ja
 tags:

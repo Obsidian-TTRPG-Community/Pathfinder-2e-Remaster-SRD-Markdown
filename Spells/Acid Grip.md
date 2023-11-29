@@ -1,6 +1,6 @@
 ---
 title: "Acid Grip"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Acid Grip"
 foundryId: Item.V0HKL9Y2FXWQVlrq
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Acidic Burst"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Acidic Burst"
 foundryId: Item.QEbqAjEJmLsxFrrV
 tags:

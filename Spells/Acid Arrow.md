@@ -1,6 +1,6 @@
 ---
 title: "Acid Arrow"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Acid Arrow"
 foundryId: Item.gRoW4iwukyD8yQQU
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Abyssal Plague"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Abyssal Plague"
 foundryId: Item.hj2aMxqgGyAY924H
 tags:

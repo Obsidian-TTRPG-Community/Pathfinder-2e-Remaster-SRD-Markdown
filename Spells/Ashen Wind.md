@@ -1,6 +1,6 @@
 ---
 title: "Ashen Wind"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ashen Wind"
 foundryId: Item.SRbuzM3Ka3FXA41A
 tags:

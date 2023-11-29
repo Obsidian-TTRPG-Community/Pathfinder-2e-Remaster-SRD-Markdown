@@ -1,6 +1,6 @@
 ---
 title: "Animus Mine"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animus Mine"
 foundryId: Item.CVke7pm0BFQHTNbx
 tags:

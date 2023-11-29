@@ -1,6 +1,6 @@
 ---
 title: "Ancestral Memories"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ancestral Memories"
 foundryId: Item.NIFsJQQ92ws9pZi6
 tags:

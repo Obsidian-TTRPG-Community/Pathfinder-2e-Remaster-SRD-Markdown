@@ -1,6 +1,6 @@
 ---
 title: "Aqueous Orb"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aqueous Orb"
 foundryId: Item.WQyjH1PBx1JvRLzR
 tags:

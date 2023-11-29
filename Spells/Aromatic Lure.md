@@ -1,6 +1,6 @@
 ---
 title: "Aromatic Lure"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aromatic Lure"
 foundryId: Item.CcNhiwa7PpOkasJB
 tags:

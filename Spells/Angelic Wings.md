@@ -1,6 +1,6 @@
 ---
 title: "Angelic Wings"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Angelic Wings"
 foundryId: Item.a9Rl9WJF5gK6JdLr
 tags:

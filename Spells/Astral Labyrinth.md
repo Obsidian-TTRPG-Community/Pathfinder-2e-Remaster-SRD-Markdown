@@ -1,6 +1,6 @@
 ---
 title: "Astral Labyrinth"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Astral Labyrinth"
 foundryId: Item.A6neUtLqej7v9han
 tags:

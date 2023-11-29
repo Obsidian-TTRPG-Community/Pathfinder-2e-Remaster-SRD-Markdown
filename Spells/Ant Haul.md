@@ -1,6 +1,6 @@
 ---
 title: "Ant Haul"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Ant Haul"
 foundryId: Item.m4SySYheiEkrNG27
 tags:

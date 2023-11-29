@@ -1,6 +1,6 @@
 ---
 title: "Astral Rain"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Astral Rain"
 foundryId: Item.liim5CzxYaIsqkjU
 tags:

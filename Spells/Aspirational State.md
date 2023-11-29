@@ -1,6 +1,6 @@
 ---
 title: "Aspirational State"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aspirational State"
 foundryId: Item.HOerls2CUaVOv0ed
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Alarm"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Alarm"
 foundryId: Item.2m4AT5qpjwlzCdK0
 tags:

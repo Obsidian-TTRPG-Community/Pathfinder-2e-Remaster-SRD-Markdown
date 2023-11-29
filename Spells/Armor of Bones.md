@@ -1,6 +1,6 @@
 ---
 title: "Armor of Bones"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Armor of Bones"
 foundryId: Item.K6ut5fCAHYW2ICZu
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Animal Vision"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animal Vision"
 foundryId: Item.ysek9wMAvEWwuoTt
 tags:

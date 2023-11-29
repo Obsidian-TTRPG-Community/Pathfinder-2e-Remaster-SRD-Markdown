@@ -1,6 +1,6 @@
 ---
 title: "Animal Feature"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animal Feature"
 foundryId: Item.h2qS54v3RSTM5VdM
 tags:

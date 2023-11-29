@@ -1,6 +1,6 @@
 ---
 title: "Atone"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Atone"
 foundryId: Item.UdawCpgF8TZNTZTn
 tags:

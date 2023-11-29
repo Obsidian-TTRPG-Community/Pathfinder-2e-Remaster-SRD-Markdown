@@ -1,6 +1,6 @@
 ---
 title: "Advanced Scurvy"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Advanced Scurvy"
 foundryId: Item.R3GbjQkTUzyK1sPk
 tags:

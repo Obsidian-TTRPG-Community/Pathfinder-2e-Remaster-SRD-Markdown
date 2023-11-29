@@ -1,6 +1,6 @@
 ---
 title: "Animal Allies"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Animal Allies"
 foundryId: Item.OAcOXuabCeWLDZbV
 tags:

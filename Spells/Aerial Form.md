@@ -1,6 +1,6 @@
 ---
 title: "Aerial Form"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Aerial Form"
 foundryId: Item.FXlxOUOMBk7jLW0Y
 tags:

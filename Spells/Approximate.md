@@ -1,6 +1,6 @@
 ---
 title: "Approximate"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Approximate"
 foundryId: Item.DHJKbFSYls1LY8B1
 tags:

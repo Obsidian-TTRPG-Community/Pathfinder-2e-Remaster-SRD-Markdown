@@ -1,6 +1,6 @@
 ---
 title: "Anticipate Peril"
-icon: ":luggage:"
+icon: "spell"
 aliases: "Anticipate Peril"
 foundryId: Item.yqFR2OPHGuFeUEn6
 tags:
