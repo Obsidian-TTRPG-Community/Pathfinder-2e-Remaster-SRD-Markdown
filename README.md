@@ -1,5 +1,9 @@
 # Pathfinder-2e-Remaster-SRD-Markdown
 This is a place for Pathfinder 2e Remaster Community Use content to be hosted in Markdown format for Obsidian.md
+- Data is being sourced from Foundry VTT.
+- Where something has been renamed, the original name has been added as an Alias. This should allow you to reference the original or new name for the item.
+ - Example: [[Summon Undead|Animate Dead]] This will link to the new name of Summon Undead, but display Animate Dead in the link name. 
+ - The Various Complements plugin is recommended for automating the linking. You can enable Alias support from within the plugin settings.  
 
 ## Repository Navigation
 
