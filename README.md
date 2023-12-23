@@ -5,7 +5,12 @@ This is a place for Pathfinder 2e Remaster Community Use content to be hosted in
  - Example: [[Summon Undead|Animate Dead]] This will link to the new name of Summon Undead, but display Animate Dead in the link name. 
  - The Various Complements plugin is recommended for automating the linking. You can enable Alias support from within the plugin settings.  
 
-## Repository Navigation
+## Instructions
+Download the latest version of the zip files. The content is currently split into 2x zips due to size limits. 
+- 2-Mechanics V#.#.zip
+- Character Building V#.#.zip
+
+Once downloaded, export the content of the zip file into your vaults. It does not matter when you put then. 
 
 ## Required Plugins and Scripts
 - [Pathfinder 2e Action Icons](obsidian://show-plugin?id=pf2-action-icons)
