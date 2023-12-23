@@ -14,6 +14,24 @@ Once downloaded, export the content of the zip file into your vaults. It does no
 
 ## Required Plugins and Scripts
 - [Pathfinder 2e Action Icons](obsidian://show-plugin?id=pf2-action-icons)
+- Fantasy Statblocks
+- Initiative Tracker [Optional]
+- Various Complements [recommended to automate link suggestions]
+- Dice Roller [Optional]
+- Supercharged Links [Optional: notes all have properties that can be used to add notes to specific note types. Example: noteType: pf2eMponster]
+- Style Settings [Optional: Required to configure Supercharged Links]
+
+### Fantasy Statblocks
+Obsidian > Settings > Community Plugins > Fantasy Statblocks > Options > Parse Frontmatter for Creatures > ✅ Enable
+Obsidian > Settings > Community Plugins > Fantasy Statblocks > Options > Try to Render Wikilinks > ✅ Enable
+Obsidian > Settings > Community Plugins > Fantasy Statblocks > Options > Bestiary Folder > 🛠️ Confiure to point at the folder where you have put the monsters
+Obsidian > Command Line (Ctrl+P) > Search and Run: Fantasy Statblock: Parse Frontmatter for Creatures
+
+### Various Completments
+Obsidian > Settings > Community Plugins > Various Complements > Options > Internal Link Complement > Suggest with an Alias > ✅ Enable
+
+### Initiative Tracker 
+Obsidian > Settings > Community Plugins > Initiative Tracker > Options > Plugin Integrations > Sync Monsters from TTRPG Statblocks > ✅ Enable
 
 ## Recommended Theme
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
